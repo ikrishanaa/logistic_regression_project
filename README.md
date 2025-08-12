@@ -19,9 +19,9 @@ Implement a **binary classification** model using Logistic Regression.
 ```
 logistic_regression_project/
 │
-├── data/                 # Place dataset.csv here
-├── outputs/              # Generated plots & metrics
-├── src/                  # Python code
+├── data/                 
+├── outputs/              
+├── src/                  
 │   └── logistic_regression.py
 ├── README.md
 └── requirements.txt
@@ -31,8 +31,8 @@ logistic_regression_project/
 1. Create virtual environment (optional but recommended):
 ```bash
 python -m venv venv
-source venv/bin/activate  # Mac/Linux
-venv\Scripts\activate   # Windows
+source venv/bin/activate  
+venv\Scripts\activate  
 ```
 
 2. Install dependencies:
